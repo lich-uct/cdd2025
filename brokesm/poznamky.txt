@@ -1,0 +1,8 @@
+git add brokesm/* stagene zmenu vsetkeho co sa zmenilo v brokesm/ foldri
+git commit -m "message" ... commit zmeny
+git push ... pushnutie zmien na git
+
+Bežne sekvencia prikazov je:
+git pull
+git commit
+git push
